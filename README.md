@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner.png" alt="Supply Chain Agent Banner" width="100%">
+
 
   # Supply Chain Disruption Intelligence Agent
   
