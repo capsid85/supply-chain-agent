@@ -1,0 +1,11 @@
+route_id,origin_port,dest_port,transit_time_days,alternative_route,carrier
+R_001,Shanghai,Los Angeles,18,Shanghai -> Seattle -> LA,Maersk
+R_002,Singapore,Rotterdam,24,Singapore -> Cape of Good Hope -> Rotterdam,MSC
+R_003,Kaohsiung,Los Angeles,16,Kaohsiung -> Oakland -> LA,Evergreen
+R_004,Hamburg,New York,12,Hamburg -> Halifax -> NY,Hapag-Lloyd
+R_005,Mumbai,Rotterdam,20,Mumbai -> Cape of Good Hope -> Rotterdam,CMA CGM
+R_006,Busan,Seattle,14,Busan -> Vancouver -> Seattle,ONELine
+R_007,Ho Chi Minh City,Los Angeles,21,HCMC -> Singapore -> LA,COSCO
+R_008,Manzanillo,Houston,8,Manzanillo -> Rail -> Houston,Chiquita
+R_009,Tokyo,San Francisco,13,Tokyo -> LA -> San Francisco,NYK
+R_010,Port Klang,Antwerp,28,Port Klang -> Cape of Good Hope -> Antwerp,HMM

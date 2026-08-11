@@ -1,0 +1,101 @@
+supplier_id,name,country,region,industry,tier,annual_spend_usd,primary_port,lead_time_days,risk_score,contact_email
+SUP_001,Acme Textiles Ltd (South Korea),South Korea,Asia Pacific,Textiles,3,4577543,Busan,14,0.61,support@acme-textiles-south korea.com
+SUP_002,Acme Automotive Ltd (South Korea),South Korea,Asia Pacific,Automotive,1,7561940440,Busan,17,0.49,support@acme-automotive-south korea.com
+SUP_003,Acme Textiles Ltd (Germany),Germany,Europe,Textiles,1,1420117775,Hamburg,9,0.12,support@acme-textiles-germany.com
+SUP_004,Acme Textiles Ltd (Vietnam),Vietnam,Asia Pacific,Textiles,3,86601723,Ho Chi Minh City,8,0.25,support@acme-textiles-vietnam.com
+SUP_005,Acme Electronics Ltd (Germany),Germany,Europe,Electronics,2,3642245707,Hamburg,28,0.11,support@acme-electronics-germany.com
+SUP_006,Acme Electronics Ltd (Mexico),Mexico,North America,Electronics,2,1946509603,Manzanillo,34,0.93,support@acme-electronics-mexico.com
+SUP_007,Acme Textiles Ltd (Taiwan),Taiwan,Asia Pacific,Textiles,2,5331044,Kaohsiung,9,0.83,support@acme-textiles-taiwan.com
+SUP_008,Acme Food & Beverage Ltd (South Korea),South Korea,Asia Pacific,Food & Beverage,2,421486,Busan,24,0.91,support@acme-food-beverage-south korea.com
+SUP_009,Acme Automotive Ltd (Vietnam),Vietnam,Asia Pacific,Automotive,2,99489255,Ho Chi Minh City,8,0.68,support@acme-automotive-vietnam.com
+SUP_010,Acme Textiles Ltd (South Korea),South Korea,Asia Pacific,Textiles,2,18310174,Busan,41,0.87,support@acme-textiles-south korea.com
+SUP_011,Acme Automotive Ltd (India),India,South Asia,Automotive,2,48108,Mumbai,10,0.26,support@acme-automotive-india.com
+SUP_012,Acme Automotive Ltd (Vietnam),Vietnam,Asia Pacific,Automotive,2,99489255,Ho Chi Minh City,16,0.86,support@acme-automotive-vietnam.com
+SUP_013,Acme Textiles Ltd (Japan),Japan,Asia Pacific,Textiles,1,30132660,Tokyo,27,0.43,support@acme-textiles-japan.com
+SUP_014,Acme Food & Beverage Ltd (Vietnam),Vietnam,Asia Pacific,Food & Beverage,2,65138037,Ho Chi Minh City,31,0.34,support@acme-food-beverage-vietnam.com
+SUP_015,Acme Food & Beverage Ltd (Mexico),Mexico,North America,Food & Beverage,3,2793463,Manzanillo,7,0.11,support@acme-food-beverage-mexico.com
+SUP_016,Acme Electronics Ltd (Mexico),Mexico,North America,Electronics,1,9732548019,Manzanillo,30,0.11,support@acme-electronics-mexico.com
+SUP_017,Acme Electronics Ltd (Taiwan),Taiwan,Asia Pacific,Electronics,2,4919911225,Kaohsiung,41,0.76,support@acme-electronics-taiwan.com
+SUP_018,Acme Automotive Ltd (Germany),Germany,Europe,Automotive,2,5263514664,Hamburg,34,0.83,support@acme-automotive-germany.com
+SUP_019,Acme Textiles Ltd (Japan),Japan,Asia Pacific,Textiles,2,6026532,Tokyo,29,0.67,support@acme-textiles-japan.com
+SUP_020,Acme Pharma Ltd (Germany),Germany,Europe,Pharma,2,2549806050,Hamburg,28,0.85,support@acme-pharma-germany.com
+SUP_021,Acme Pharma Ltd (China),China,Asia Pacific,Pharma,1,1400489641,Shanghai,20,0.82,support@acme-pharma-china.com
+SUP_022,Acme Automotive Ltd (Germany),Germany,Europe,Automotive,1,26317573323,Hamburg,20,0.52,support@acme-automotive-germany.com
+SUP_023,Acme Automotive Ltd (Mexico),Mexico,North America,Automotive,1,13607661257,Manzanillo,19,0.27,support@acme-automotive-mexico.com
+SUP_024,Acme Electronics Ltd (South Korea),South Korea,Asia Pacific,Electronics,2,4208691876,Busan,38,0.69,support@acme-electronics-south korea.com
+SUP_025,Acme Food & Beverage Ltd (Germany),Germany,Europe,Food & Beverage,2,194041,Hamburg,19,0.17,support@acme-food-beverage-germany.com
+SUP_026,Acme Textiles Ltd (Taiwan),Taiwan,Asia Pacific,Textiles,3,1332761,Kaohsiung,12,0.49,support@acme-textiles-taiwan.com
+SUP_027,Acme Pharma Ltd (India),India,South Asia,Pharma,2,87401,Mumbai,34,0.4,support@acme-pharma-india.com
+SUP_028,Acme Electronics Ltd (China),China,Asia Pacific,Electronics,1,579746,Shanghai,19,0.83,support@acme-electronics-china.com
+SUP_029,Acme Pharma Ltd (South Korea),South Korea,Asia Pacific,Pharma,2,90457,Busan,30,0.9,support@acme-pharma-south korea.com
+SUP_030,Acme Electronics Ltd (USA),USA,North America,Electronics,2,2787,Los Angeles,18,0.31,support@acme-electronics-usa.com
+SUP_031,Acme Pharma Ltd (Vietnam),Vietnam,Asia Pacific,Pharma,2,5225913,Ho Chi Minh City,23,0.33,support@acme-pharma-vietnam.com
+SUP_032,Acme Automotive Ltd (Vietnam),Vietnam,Asia Pacific,Automotive,2,99489255,Ho Chi Minh City,29,0.34,support@acme-automotive-vietnam.com
+SUP_033,Acme Electronics Ltd (China),China,Asia Pacific,Electronics,1,579746,Shanghai,8,0.55,support@acme-electronics-china.com
+SUP_034,Acme Textiles Ltd (Malaysia),Malaysia,Asia Pacific,Textiles,1,106387521,Port Klang,23,0.72,support@acme-textiles-malaysia.com
+SUP_035,Acme Food & Beverage Ltd (Japan),Japan,Asia Pacific,Food & Beverage,2,1141380,Tokyo,12,0.44,support@acme-food-beverage-japan.com
+SUP_036,Acme Electronics Ltd (China),China,Asia Pacific,Electronics,2,115949,Shanghai,12,0.69,support@acme-electronics-china.com
+SUP_037,Acme Textiles Ltd (Taiwan),Taiwan,Asia Pacific,Textiles,2,5331044,Kaohsiung,42,0.11,support@acme-textiles-taiwan.com
+SUP_038,Acme Pharma Ltd (Taiwan),Taiwan,Asia Pacific,Pharma,2,17249857,Kaohsiung,13,0.25,support@acme-pharma-taiwan.com
+SUP_039,Acme Automotive Ltd (China),China,Asia Pacific,Automotive,3,751177198,Shanghai,17,0.39,support@acme-automotive-china.com
+SUP_040,Acme Automotive Ltd (Mexico),Mexico,North America,Automotive,3,680383062,Manzanillo,36,0.69,support@acme-automotive-mexico.com
+SUP_041,Acme Textiles Ltd (South Korea),South Korea,Asia Pacific,Textiles,1,91550873,Busan,8,0.95,support@acme-textiles-south korea.com
+SUP_042,Acme Food & Beverage Ltd (Germany),Germany,Europe,Food & Beverage,3,48510,Hamburg,15,0.34,support@acme-food-beverage-germany.com
+SUP_043,Acme Pharma Ltd (Taiwan),Taiwan,Asia Pacific,Pharma,3,4312464,Kaohsiung,39,0.65,support@acme-pharma-taiwan.com
+SUP_044,Acme Textiles Ltd (China),China,Asia Pacific,Textiles,3,454711619,Shanghai,26,0.59,support@acme-textiles-china.com
+SUP_045,Acme Pharma Ltd (Mexico),Mexico,North America,Pharma,3,10904330,Manzanillo,24,0.24,support@acme-pharma-mexico.com
+SUP_046,Acme Automotive Ltd (Vietnam),Vietnam,Asia Pacific,Automotive,2,99489255,Ho Chi Minh City,22,0.95,support@acme-automotive-vietnam.com
+SUP_047,Acme Electronics Ltd (India),India,South Asia,Electronics,1,742814,Mumbai,27,0.25,support@acme-electronics-india.com
+SUP_048,Acme Pharma Ltd (Japan),Japan,Asia Pacific,Pharma,2,148802370,Tokyo,39,0.56,support@acme-pharma-japan.com
+SUP_049,Acme Food & Beverage Ltd (Taiwan),Taiwan,Asia Pacific,Food & Beverage,2,1622541,Kaohsiung,14,0.64,support@acme-food-beverage-taiwan.com
+SUP_050,Acme Food & Beverage Ltd (Vietnam),Vietnam,Asia Pacific,Food & Beverage,2,65138037,Ho Chi Minh City,34,0.67,support@acme-food-beverage-vietnam.com
+SUP_051,Acme Food & Beverage Ltd (China),China,Asia Pacific,Food & Beverage,1,107032805,Shanghai,25,0.59,support@acme-food-beverage-china.com
+SUP_052,Acme Electronics Ltd (China),China,Asia Pacific,Electronics,3,28987,Shanghai,36,0.91,support@acme-electronics-china.com
+SUP_053,Acme Pharma Ltd (Germany),Germany,Europe,Pharma,2,2549806050,Hamburg,43,0.89,support@acme-pharma-germany.com
+SUP_054,Acme Food & Beverage Ltd (China),China,Asia Pacific,Food & Beverage,2,21406561,Shanghai,39,0.16,support@acme-food-beverage-china.com
+SUP_055,Acme Electronics Ltd (Germany),Germany,Europe,Electronics,2,3642245707,Hamburg,24,0.57,support@acme-electronics-germany.com
+SUP_056,Acme Automotive Ltd (USA),USA,North America,Automotive,3,674431243,Los Angeles,30,0.28,support@acme-automotive-usa.com
+SUP_057,Acme Automotive Ltd (USA),USA,North America,Automotive,2,2697724974,Los Angeles,8,0.37,support@acme-automotive-usa.com
+SUP_058,Acme Electronics Ltd (Japan),Japan,Asia Pacific,Electronics,1,11334307745,Tokyo,35,0.35,support@acme-electronics-japan.com
+SUP_059,Acme Pharma Ltd (Malaysia),Malaysia,Asia Pacific,Pharma,2,9358906,Port Klang,30,0.88,support@acme-pharma-malaysia.com
+SUP_060,Acme Electronics Ltd (Malaysia),Malaysia,Asia Pacific,Electronics,2,133119,Port Klang,14,0.7,support@acme-electronics-malaysia.com
+SUP_061,Acme Textiles Ltd (Taiwan),Taiwan,Asia Pacific,Textiles,2,5331044,Kaohsiung,38,0.59,support@acme-textiles-taiwan.com
+SUP_062,Acme Pharma Ltd (USA),USA,North America,Pharma,2,1669855093,Los Angeles,28,0.6,support@acme-pharma-usa.com
+SUP_063,Acme Electronics Ltd (USA),USA,North America,Electronics,1,13935,Los Angeles,12,0.36,support@acme-electronics-usa.com
+SUP_064,Acme Electronics Ltd (Germany),Germany,Europe,Electronics,3,910561426,Hamburg,11,0.49,support@acme-electronics-germany.com
+SUP_065,Acme Food & Beverage Ltd (USA),USA,North America,Food & Beverage,1,3157897181,Los Angeles,36,0.56,support@acme-food-beverage-usa.com
+SUP_066,Acme Textiles Ltd (South Korea),South Korea,Asia Pacific,Textiles,1,91550873,Busan,36,0.13,support@acme-textiles-south korea.com
+SUP_067,Acme Pharma Ltd (Japan),Japan,Asia Pacific,Pharma,2,148802370,Tokyo,32,0.12,support@acme-pharma-japan.com
+SUP_068,Acme Electronics Ltd (Germany),Germany,Europe,Electronics,2,3642245707,Hamburg,7,0.25,support@acme-electronics-germany.com
+SUP_069,Acme Automotive Ltd (China),China,Asia Pacific,Automotive,1,15023543961,Shanghai,31,0.66,support@acme-automotive-china.com
+SUP_070,Acme Electronics Ltd (Germany),Germany,Europe,Electronics,3,910561426,Hamburg,11,0.62,support@acme-electronics-germany.com
+SUP_071,Acme Pharma Ltd (South Korea),South Korea,Asia Pacific,Pharma,1,452288,Busan,22,0.23,support@acme-pharma-south korea.com
+SUP_072,Acme Electronics Ltd (USA),USA,North America,Electronics,2,2787,Los Angeles,34,0.14,support@acme-electronics-usa.com
+SUP_073,Acme Textiles Ltd (China),China,Asia Pacific,Textiles,1,9094232392,Shanghai,22,0.18,support@acme-textiles-china.com
+SUP_074,Acme Textiles Ltd (Germany),Germany,Europe,Textiles,1,1420117775,Hamburg,36,0.65,support@acme-textiles-germany.com
+SUP_075,Acme Automotive Ltd (Malaysia),Malaysia,Asia Pacific,Automotive,3,13088016,Port Klang,42,0.14,support@acme-automotive-malaysia.com
+SUP_076,Acme Automotive Ltd (Malaysia),Malaysia,Asia Pacific,Automotive,3,13088016,Port Klang,38,0.83,support@acme-automotive-malaysia.com
+SUP_077,Acme Food & Beverage Ltd (Germany),Germany,Europe,Food & Beverage,1,970208,Hamburg,30,0.9,support@acme-food-beverage-germany.com
+SUP_078,Acme Electronics Ltd (Vietnam),Vietnam,Asia Pacific,Electronics,3,701709029,Ho Chi Minh City,38,0.9,support@acme-electronics-vietnam.com
+SUP_079,Acme Textiles Ltd (Japan),Japan,Asia Pacific,Textiles,2,6026532,Tokyo,39,0.49,support@acme-textiles-japan.com
+SUP_080,Acme Pharma Ltd (Taiwan),Taiwan,Asia Pacific,Pharma,3,4312464,Kaohsiung,9,0.8,support@acme-pharma-taiwan.com
+SUP_081,Acme Automotive Ltd (Japan),Japan,Asia Pacific,Automotive,1,13570415009,Tokyo,35,0.16,support@acme-automotive-japan.com
+SUP_082,Acme Food & Beverage Ltd (Vietnam),Vietnam,Asia Pacific,Food & Beverage,1,325690186,Ho Chi Minh City,41,0.39,support@acme-food-beverage-vietnam.com
+SUP_083,Acme Food & Beverage Ltd (Malaysia),Malaysia,Asia Pacific,Food & Beverage,3,252761,Port Klang,32,0.39,support@acme-food-beverage-malaysia.com
+SUP_084,Acme Electronics Ltd (Taiwan),Taiwan,Asia Pacific,Electronics,2,4919911225,Kaohsiung,17,0.85,support@acme-electronics-taiwan.com
+SUP_085,Acme Electronics Ltd (India),India,South Asia,Electronics,3,37140,Mumbai,42,0.25,support@acme-electronics-india.com
+SUP_086,Acme Pharma Ltd (Mexico),Mexico,North America,Pharma,3,10904330,Manzanillo,42,0.42,support@acme-pharma-mexico.com
+SUP_087,Acme Food & Beverage Ltd (South Korea),South Korea,Asia Pacific,Food & Beverage,1,2107432,Busan,19,0.73,support@acme-food-beverage-south korea.com
+SUP_088,Acme Electronics Ltd (Taiwan),Taiwan,Asia Pacific,Electronics,2,4919911225,Kaohsiung,26,0.8,support@acme-electronics-taiwan.com
+SUP_089,Acme Food & Beverage Ltd (USA),USA,North America,Food & Beverage,3,157894859,Los Angeles,42,0.11,support@acme-food-beverage-usa.com
+SUP_090,Acme Pharma Ltd (Mexico),Mexico,North America,Pharma,1,218086607,Manzanillo,13,0.91,support@acme-pharma-mexico.com
+SUP_091,Acme Pharma Ltd (India),India,South Asia,Pharma,2,87401,Mumbai,22,0.48,support@acme-pharma-india.com
+SUP_092,Acme Textiles Ltd (Taiwan),Taiwan,Asia Pacific,Textiles,2,5331044,Kaohsiung,27,0.74,support@acme-textiles-taiwan.com
+SUP_093,Acme Electronics Ltd (South Korea),South Korea,Asia Pacific,Electronics,1,21043459381,Busan,20,0.57,support@acme-electronics-south korea.com
+SUP_094,Acme Pharma Ltd (Germany),Germany,Europe,Pharma,3,637451512,Hamburg,17,0.2,support@acme-pharma-germany.com
+SUP_095,Acme Automotive Ltd (Mexico),Mexico,North America,Automotive,3,680383062,Manzanillo,23,0.19,support@acme-automotive-mexico.com
+SUP_096,Acme Food & Beverage Ltd (South Korea),South Korea,Asia Pacific,Food & Beverage,1,2107432,Busan,15,0.8,support@acme-food-beverage-south korea.com
+SUP_097,Acme Automotive Ltd (Malaysia),Malaysia,Asia Pacific,Automotive,1,261760330,Port Klang,43,0.3,support@acme-automotive-malaysia.com
+SUP_098,Acme Food & Beverage Ltd (Japan),Japan,Asia Pacific,Food & Beverage,2,1141380,Tokyo,23,0.91,support@acme-food-beverage-japan.com
+SUP_099,Acme Food & Beverage Ltd (Mexico),Mexico,North America,Food & Beverage,3,2793463,Manzanillo,12,0.7,support@acme-food-beverage-mexico.com
+SUP_100,Acme Food & Beverage Ltd (Taiwan),Taiwan,Asia Pacific,Food & Beverage,2,1622541,Kaohsiung,33,0.31,support@acme-food-beverage-taiwan.com
